@@ -1,0 +1,12 @@
+[templates.nvim-base16]
+input_path = "~/.config/nvim/lua/matugen-template.lua"
+output_path = "~/.config/nvim/lua/matugen.lua"
+post_hook = 'pkill -SIGUSR1 nvim'
+
+[templates.starship]
+input_path = "~/.config/starship/matugen-template.toml"
+output_path = "~/.config/starship/starship.toml"
+
+[templates.fastfetch]
+input_path = "~/.config/fastfetch/matugen-template.jsonc"
+output_path = "~/.config/fastfetch/config.jsonc"

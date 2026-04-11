@@ -1,0 +1,100 @@
+# Noctalia Starship Config - Dynamic Colors (Matugen)
+palette = "noctalia"
+add_newline = true
+
+[palettes.noctalia]
+primary = "#ffb4a7"
+secondary = "#e7bdb6"
+tertiary = "#dec48c"
+error = "#ffb4ab"
+surface = "#181211"
+
+format = """
+$username\
+$hostname\
+$directory\
+$git_branch\
+$git_status\
+$package\
+$lua\
+$nodejs\
+$python\
+$rust\
+$nix_shell\
+$sudo\
+$cmd_duration\
+$line_break\
+$jobs\
+$battery\
+$time\
+$status\
+$character"""
+
+[username]
+style_user = "bold primary"
+style_root = "bold error"
+format = "[$user]($style) "
+show_always = true
+
+[directory]
+style = "bold tertiary"
+format = "[$path]($style)[$read_only]($read_only_style) "
+home_symbol = "󱂵 "
+
+[git_branch]
+symbol = "󰊢 "
+style = "bold primary"
+
+[git_status]
+style = "bold secondary"
+
+[character]
+success_symbol = "[󰄛 ](bold primary)"
+error_symbol = "[󰄛 ](bold error)"
+
+[time]
+disabled = false
+style = "bold secondary"
+format = "at [$time]($style) "
+
+[cmd_duration]
+style = "bold tertiary"
+
+[lua]
+symbol = " "
+style = "bold primary"
+
+[nodejs]
+symbol = "󰎙 "
+style = "bold primary"
+
+[python]
+symbol = " "
+style = "bold primary"
+
+[rust]
+symbol = " "
+style = "bold primary"
+
+[nix_shell]
+symbol = "󱄅 "
+style = "bold primary"
+
+[sudo]
+disabled = false
+symbol = "󰀵 "
+style = "bold error"
+format = "[$symbol]($style) "
+
+[jobs]
+symbol = "󰬏 "
+style = "bold tertiary"
+
+[battery]
+full_symbol = "󰁹 "
+charging_symbol = "󰂄 "
+discharging_symbol = "󰂃 "
+style = "bold primary"
+[[battery.display]]
+threshold = 30
+style = "bold error"

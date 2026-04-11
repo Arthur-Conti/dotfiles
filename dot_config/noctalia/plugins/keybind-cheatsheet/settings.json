@@ -1,0 +1,310 @@
+{
+  "cheatsheetData": [
+    {
+      "title": "Noctalia",
+      "binds": [
+        {
+          "keys": "Super + A",
+          "desc": "Control Center"
+        },
+        {
+          "keys": "Super + SPACE",
+          "desc": "Launcher"
+        },
+        {
+          "keys": "Super + COMMA",
+          "desc": "Settings"
+        },
+        {
+          "keys": "Super + TAB",
+          "desc": "Launch Windows"
+        },
+        {
+          "keys": "Super + C",
+          "desc": "Calendar"
+        },
+        {
+          "keys": "Super + M",
+          "desc": "Session Menu"
+        },
+        {
+          "keys": "Super + L",
+          "desc": "Lock Scheen"
+        },
+        {
+          "keys": "Super + J",
+          "desc": "System Monitor"
+        },
+        {
+          "keys": "Super + H",
+          "desc": "Notification History"
+        },
+        {
+          "keys": "Super + N",
+          "desc": "Clear Notifications"
+        },
+        {
+          "keys": "Super + Shift + C",
+          "desc": "Toggle Bar"
+        },
+        {
+          "keys": "Super + P",
+          "desc": "Wallpaper Selector"
+        },
+        {
+          "keys": "Super + R",
+          "desc": "Launch Command"
+        },
+        {
+          "keys": "Super + Z",
+          "desc": "Zed Launcher"
+        },
+        {
+          "keys": "Super + K",
+          "desc": "Keybinds Cheatsheet"
+        }
+      ]
+    },
+    {
+      "title": "Navigation Basic",
+      "binds": [
+        {
+          "keys": "Super + F",
+          "desc": "Fullscreen"
+        },
+        {
+          "keys": "Super + Shift + F",
+          "desc": "Fullscreen with borders"
+        },
+        {
+          "keys": "Super + RETURN",
+          "desc": "Teminal"
+        },
+        {
+          "keys": "Super + W",
+          "desc": "Close Window"
+        },
+        {
+          "keys": "Super + E",
+          "desc": "File Manager"
+        },
+        {
+          "keys": "Super + X",
+          "desc": "Toogle Floating"
+        }
+      ]
+    },
+    {
+      "title": "Navigation Windows",
+      "binds": [
+        {
+          "keys": "Super + LEFT",
+          "desc": "Move Focus Left"
+        },
+        {
+          "keys": "Super + RIGHT",
+          "desc": "Move Focus Right"
+        },
+        {
+          "keys": "Super + UP",
+          "desc": "Move Focus Up"
+        },
+        {
+          "keys": "Super + DOWN",
+          "desc": "Move Focus Down"
+        }
+      ]
+    },
+    {
+      "title": "Navigation Workspaces",
+      "binds": [
+        {
+          "keys": "Super + Ctrl + LEFT",
+          "desc": "Move to Previous  Workspace"
+        },
+        {
+          "keys": "Super + Ctrl + RIGHT",
+          "desc": "Move to Next Workspace"
+        },
+        {
+          "keys": "Super + 1",
+          "desc": "Move to Workspace 1"
+        },
+        {
+          "keys": "Super + 2",
+          "desc": "Move to Workspace 2"
+        },
+        {
+          "keys": "Super + 3",
+          "desc": "Move to Workspace 3"
+        },
+        {
+          "keys": "Super + 4",
+          "desc": "Move to Workspace 4"
+        },
+        {
+          "keys": "Super + 5",
+          "desc": "Move to Workspace 5"
+        },
+        {
+          "keys": "Super + 6",
+          "desc": "Move to Workspace 6"
+        },
+        {
+          "keys": "Super + 7",
+          "desc": "Move to Workspace 7"
+        },
+        {
+          "keys": "Super + 8",
+          "desc": "Move to Workspace 8"
+        },
+        {
+          "keys": "Super + 9",
+          "desc": "Move to Workspace 9"
+        },
+        {
+          "keys": "Super + 0",
+          "desc": "Move to Workspace 10"
+        }
+      ]
+    },
+    {
+      "title": "Move Window",
+      "binds": [
+        {
+          "keys": "Super + Shift + LEFT",
+          "desc": "Move Window to Left"
+        },
+        {
+          "keys": "Super + Shift + RIGHT",
+          "desc": "Move Window to Right"
+        },
+        {
+          "keys": "Super + Shift + UP",
+          "desc": "Move Window Up"
+        },
+        {
+          "keys": "Super + Shift + DOWN",
+          "desc": "Move Window Down"
+        }
+      ]
+    },
+    {
+      "title": "Move Window - Worskspaces",
+      "binds": [
+        {
+          "keys": "Super + Ctrl + 1",
+          "desc": "Move Window to Workspace 1"
+        },
+        {
+          "keys": "Super + Ctrl + 2",
+          "desc": "Move Window to Workspace 2"
+        },
+        {
+          "keys": "Super + Ctrl + 3",
+          "desc": "Move Window to Workspace 3"
+        },
+        {
+          "keys": "Super + Ctrl + 4",
+          "desc": "Move Window to Workspace 4"
+        },
+        {
+          "keys": "Super + Ctrl + 5",
+          "desc": "Move Window to Workspace 5"
+        },
+        {
+          "keys": "Super + Ctrl + 6",
+          "desc": "Move Window to Workspace 6"
+        },
+        {
+          "keys": "Super + Ctrl + 7",
+          "desc": "Move Window to Workspace 7"
+        },
+        {
+          "keys": "Super + Ctrl + 8",
+          "desc": "Move Window to Workspace 8"
+        },
+        {
+          "keys": "Super + Ctrl + 9",
+          "desc": "Move Window to Workspace 9"
+        },
+        {
+          "keys": "Super + Ctrl + 0",
+          "desc": "Move Window to Workspace 10"
+        }
+      ]
+    },
+    {
+      "title": "Print Screen",
+      "binds": [
+        {
+          "keys": "Super + S",
+          "desc": "Print Screen (Region)"
+        },
+        {
+          "keys": "Super + Shift + S",
+          "desc": "Print Screen (Window)"
+        },
+        {
+          "keys": "Super + Alt + S",
+          "desc": "Print Screen (Full)"
+        }
+      ]
+    },
+    {
+      "title": "Resize Window",
+      "binds": [
+        {
+          "keys": "Super + Alt + RIGHT",
+          "desc": "Resize Window to Right"
+        },
+        {
+          "keys": "Super + Alt + LEFT",
+          "desc": "Resize Window to Left"
+        },
+        {
+          "keys": "Super + Alt + UP",
+          "desc": "Resize Window Up"
+        },
+        {
+          "keys": "Super + Alt + DOWN",
+          "desc": "Resize Window Down"
+        }
+      ]
+    },
+    {
+      "title": "Audio",
+      "binds": [
+        {
+          "keys": "Super + EQUAL",
+          "desc": "Volume Up"
+        },
+        {
+          "keys": "Super + MINUS",
+          "desc": "Volume Down"
+        },
+        {
+          "keys": "Super + DELETE",
+          "desc": "Pause/Play Media"
+        }
+      ]
+    },
+    {
+      "title": "Others",
+      "binds": [
+        {
+          "keys": "Super + BACKSPACE",
+          "desc": "Toggle Window Opacity"
+        }
+      ]
+    }
+  ],
+  "detectedCompositor": "hyprland",
+  "windowWidth": 1400,
+  "windowHeight": 850,
+  "autoHeight": true,
+  "columnCount": 3,
+  "modKeyVariable": "$mainMod",
+  "hyprlandConfigPath": "~/.config/hypr/hyprland.conf",
+  "niriConfigPath": "~/.config/niri/config.kdl"
+}

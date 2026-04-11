@@ -1,0 +1,6 @@
+[palettes.noctalia]
+primary = "#ffb4a9"
+secondary = "#e7bdb6"
+tertiary = "#dec38c"
+error = "#ffb4ab"
+surface = "#181211"

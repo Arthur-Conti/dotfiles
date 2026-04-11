@@ -1,0 +1,13 @@
+theme = noctalia
+
+# Margens horizontais (esquerda e direita)
+window-padding-x = 12
+
+# Margens verticais (topo e base)
+window-padding-y = 12
+
+# Opcional: Centraliza automaticamente o conteúdo caso o tamanho da janela 
+# não seja perfeitamente divisível pelo tamanho da célula da fonte
+window-padding-balance = true
+
+window-decoration = false
