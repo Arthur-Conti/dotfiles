@@ -108,12 +108,10 @@ alias ls='ls --color=auto'
 alias ll='ls -la --color=auto'
 
 alias moi='chezmoi'
-alias moia='chezmoi apply'
 alias moid='chezmoi diff'
 alias moie='chezmoi edit'
 alias gmoi='cd $(chezmoi source-path)'
-
-alias ghmoi='cd $(chezmoi source-path) && git add . && git commit -m "many many changes" && git push origin main && cd -'
+alias moia='chezmoi apply && cd $(chezmoi source-path) && git add . && git commit -m "many many changes" && git push origin main && cd -'
 
 function y() {
   local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
