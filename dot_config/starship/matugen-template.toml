@@ -82,7 +82,7 @@ style = "bold primary"
 
 [sudo]
 disabled = false
-symbol = "󰀵 "
+symbol = "󰣇 "
 style = "bold error"
 format = "[$symbol]($style) "
 
