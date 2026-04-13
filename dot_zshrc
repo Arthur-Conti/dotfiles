@@ -104,6 +104,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 
+alias cmd='cat /home/arthur/.zshrc | grep alias'
+
 alias ls='ls --color=auto'
 alias ll='ls -la --color=auto'
 
@@ -111,7 +113,7 @@ alias moi='chezmoi'
 alias moid='chezmoi diff'
 alias moie='chezmoi edit'
 alias gmoi='cd $(chezmoi source-path)'
-alias moia='chezmoi re-add && chezmoi apply && cd $(chezmoi source-path) && git add . && git commit -m "many many changes" && git push origin main && cd -'
+alias moia='chezmoi apply && cd $(chezmoi source-path) && git add . && git commit -m "many many changes" && git push origin main && cd -'
 
 function y() {
   local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
