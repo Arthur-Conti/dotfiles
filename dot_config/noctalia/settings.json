@@ -173,6 +173,9 @@
                             "icon": "noctalia",
                             "id": "ControlCenter",
                             "useDistroLogo": false
+                        },
+                        {
+                            "id": "plugin:workspace-overview"
                         }
                     ]
                 }
@@ -401,6 +404,9 @@
                     "id": "Clock",
                     "tooltipFormat": "HH:mm ddd, MMM dd",
                     "useCustomFont": false
+                },
+                {
+                    "id": "plugin:workspace-overview"
                 },
                 {
                     "colorizeDistroLogo": false,
