@@ -1,22 +1,22 @@
 return {
   setup = function()
     require('base16-colorscheme').setup({
-      base00 = "#181211",
-      base01 = "#251e1d",
-      base02 = "#2f2827",
-      base03 = "#534341",
-      base04 = "#a08c8a",
-      base05 = "#ede0de",
-      base06 = "#d8c2be",
-      base07 = "#ede0de",
+      base00 = "#16121a",
+      base01 = "#231e26",
+      base02 = "#2e2831",
+      base03 = "#4d4352",
+      base04 = "#988d9e",
+      base05 = "#eadfeb",
+      base06 = "#cfc2d5",
+      base07 = "#eadfeb",
       base08 = "#ffb4ab",
-      base09 = "#dfc38c",
-      base0A = "#e7bdb7",
-      base0B = "#ffb4aa",
-      base0C = "#7d2b23",
-      base0D = "#ffb4aa",
-      base0E = "#e7bdb7",
-      base0F = "#dfc38c"
+      base09 = "#ffb0cf",
+      base0A = "#deb8fb",
+      base0B = "#e0b7ff",
+      base0C = "#6911a8",
+      base0D = "#e0b7ff",
+      base0E = "#deb8fb",
+      base0F = "#ffb0cf"
     })
   end
 }
