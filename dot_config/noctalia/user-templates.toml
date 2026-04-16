@@ -10,7 +10,3 @@ output_path = "~/.config/starship/starship.toml"
 [templates.fastfetch]
 input_path = "~/.config/fastfetch/matugen-template.jsonc"
 output_path = "~/.config/fastfetch/config.jsonc"
-
-[templates.overview]
-input_path = "~/.config/quickshell/overview/quickshell-overview.qml"
-output_path = "~/.config/quickshell/overview/common/Appearance.colors.qml"
