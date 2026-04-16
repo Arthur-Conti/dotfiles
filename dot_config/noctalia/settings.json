@@ -369,11 +369,6 @@
                     "useCustomFont": false
                 },
                 {
-                    "defaultSettings": {
-                    },
-                    "id": "plugin:workspace-overview"
-                },
-                {
                     "colorizeDistroLogo": false,
                     "colorizeSystemIcon": "none",
                     "customIconPath": "",
