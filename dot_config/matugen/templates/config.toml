@@ -1,0 +1,4 @@
+[templates.openrgb]
+input_path = "/home/arthur/.config/matugen/templates/openrgb.sh"
+output_path = "/home/arthur/.config/matugen/scripts/openrgb-apply.sh"
+post_hook = "bash /home/arthur/.config/matugen/scripts/openrgb-apply.sh"
