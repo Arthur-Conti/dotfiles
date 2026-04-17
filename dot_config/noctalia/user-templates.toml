@@ -10,3 +10,8 @@ output_path = "~/.config/starship/starship.toml"
 [templates.fastfetch]
 input_path = "~/.config/fastfetch/matugen-template.jsonc"
 output_path = "~/.config/fastfetch/config.jsonc"
+
+[templates.openrgb]
+input_path = "/home/arthur/.config/matugen/templates/openrgb.sh"
+output_path = "/home/arthur/.config/matugen/scripts/openrgb-apply.sh"
+post_hook = "bash /home/arthur/.config/matugen/scripts/openrgb-apply.sh"

@@ -12,8 +12,8 @@
     "display": {
         "separator": " 󰄛 ",
         "color": {
-            "keys": "#e0b7ff",
-            "title": "#deb8fb"
+            "keys": "#a8c8ff",
+            "title": "#b6c7e8"
         }
     },
     "modules": [
@@ -22,37 +22,37 @@
         {
             "type": "os",
             "key": "󰣇 OS ",
-            "keyColor": "#e0b7ff"
+            "keyColor": "#a8c8ff"
         },
         {
             "type": "kernel",
             "key": "󰒋 KRN",
-            "keyColor": "#deb8fb"
+            "keyColor": "#b6c7e8"
         },
         {
             "type": "packages",
             "key": "󰏖 PKG",
-            "keyColor": "#ffb0cf"
+            "keyColor": "#f1affe"
         },
         {
             "type": "shell",
             "key": "󰞷 SHL",
-            "keyColor": "#e0b7ff"
+            "keyColor": "#a8c8ff"
         },
         {
             "type": "wm",
             "key": "󱂬 WM ",
-            "keyColor": "#deb8fb"
+            "keyColor": "#b6c7e8"
         },
         {
             "type": "terminal",
             "key": "󰆍 TRM",
-            "keyColor": "#ffb0cf"
+            "keyColor": "#f1affe"
         },
         {
             "type": "uptime",
             "key": "󰅐 UPT",
-            "keyColor": "#e0b7ff"
+            "keyColor": "#a8c8ff"
         },
         "break",
         {
