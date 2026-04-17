@@ -3,11 +3,11 @@ palette = "noctalia"
 add_newline = true
 
 [palettes.noctalia]
-primary = "#a8c8ff"
-secondary = "#b6c7e8"
-tertiary = "#f1affe"
+primary = "#a9cdd5"
+secondary = "#bbc9cc"
+tertiary = "#cfc1e2"
 error = "#ffb4ab"
-surface = "#111318"
+surface = "#121414"
 
 format = """
 $username\
