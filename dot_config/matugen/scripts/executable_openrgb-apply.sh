@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # O Matugen vai injetar o HEX com hashtag aqui (ex: #FF5555)
-PRIMARY_COLOR="#2a4c53"
+PRIMARY_COLOR="#004689"
 
 # Removemos a hashtag para o OpenRGB ler corretamente (fica: FF5555)
 CLEAN_HEX="${PRIMARY_COLOR//#/}"
